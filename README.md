@@ -1,4 +1,4 @@
-# Braille text-to-speech converter
+# Braille Text-to-Speech Converter
 
 A Streamlit application that locates Braille cells with either a hosted
 Roboflow model or local YOLO11 weights, classifies each crop locally with
